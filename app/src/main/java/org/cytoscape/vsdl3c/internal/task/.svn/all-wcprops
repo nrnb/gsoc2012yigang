@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/37/trunk/vsdl3c/app/src/main/java/org/cytoscape/vsdl3c/internal/task
+END
+AddContextTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/vsdl3c/app/src/main/java/org/cytoscape/vsdl3c/internal/task/AddContextTask.java
+END
+ImportVizmapTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/110/trunk/vsdl3c/app/src/main/java/org/cytoscape/vsdl3c/internal/task/ImportVizmapTask.java
+END
+SchemaExtractionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/110/trunk/vsdl3c/app/src/main/java/org/cytoscape/vsdl3c/internal/task/SchemaExtractionTask.java
+END
+SelectGraphTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/110/trunk/vsdl3c/app/src/main/java/org/cytoscape/vsdl3c/internal/task/SelectGraphTask.java
+END
+TransformTaskFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/110/trunk/vsdl3c/app/src/main/java/org/cytoscape/vsdl3c/internal/task/TransformTaskFactory.java
+END
+TunableTransformTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/111/trunk/vsdl3c/app/src/main/java/org/cytoscape/vsdl3c/internal/task/TunableTransformTask.java
+END
+CheckForUpdateTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/110/trunk/vsdl3c/app/src/main/java/org/cytoscape/vsdl3c/internal/task/CheckForUpdateTask.java
+END
+UpdateContextTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/111/trunk/vsdl3c/app/src/main/java/org/cytoscape/vsdl3c/internal/task/UpdateContextTask.java
+END
+QueryGraphTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/110/trunk/vsdl3c/app/src/main/java/org/cytoscape/vsdl3c/internal/task/QueryGraphTask.java
+END
+DeleteContextTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/110/trunk/vsdl3c/app/src/main/java/org/cytoscape/vsdl3c/internal/task/DeleteContextTask.java
+END
+TransformTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/111/trunk/vsdl3c/app/src/main/java/org/cytoscape/vsdl3c/internal/task/TransformTask.java
+END

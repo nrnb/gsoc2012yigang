@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/18/trunk/vsdl3c/app/src/main/resources/org/cytoscape/vsdl3c/internal
+END
+prefix.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/23/trunk/vsdl3c/app/src/main/resources/org/cytoscape/vsdl3c/internal/prefix.properties
+END
+datatypes.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/18/trunk/vsdl3c/app/src/main/resources/org/cytoscape/vsdl3c/internal/datatypes.properties
+END

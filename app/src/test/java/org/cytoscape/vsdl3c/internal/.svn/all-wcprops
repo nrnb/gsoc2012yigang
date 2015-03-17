@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14/trunk/vsdl3c/app/src/test/java/org/cytoscape/vsdl3c/internal
+END
+MetadataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/103/trunk/vsdl3c/app/src/test/java/org/cytoscape/vsdl3c/internal/MetadataTest.java
+END
+SchemaExtractionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/25/trunk/vsdl3c/app/src/test/java/org/cytoscape/vsdl3c/internal/SchemaExtractionTest.java
+END
+APIKeyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/61/trunk/vsdl3c/app/src/test/java/org/cytoscape/vsdl3c/internal/APIKeyTest.java
+END
+UnTarGzipTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/47/trunk/vsdl3c/app/src/test/java/org/cytoscape/vsdl3c/internal/UnTarGzipTest.java
+END
+FakeCyNetworkFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/36/trunk/vsdl3c/app/src/test/java/org/cytoscape/vsdl3c/internal/FakeCyNetworkFactory.java
+END
+SPARQLAuthTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/103/trunk/vsdl3c/app/src/test/java/org/cytoscape/vsdl3c/internal/SPARQLAuthTest.java
+END
+RDF2CyNetworkTransformerImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/25/trunk/vsdl3c/app/src/test/java/org/cytoscape/vsdl3c/internal/RDF2CyNetworkTransformerImplTest.java
+END

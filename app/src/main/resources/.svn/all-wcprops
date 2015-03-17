@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/vsdl3c/app/src/main/resources
+END
+sparql_construct_query_vizmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/37/trunk/vsdl3c/app/src/main/resources/sparql_construct_query_vizmap.xml
+END
+sparql_endpoint_schema_vizmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/36/trunk/vsdl3c/app/src/main/resources/sparql_endpoint_schema_vizmap.xml
+END
